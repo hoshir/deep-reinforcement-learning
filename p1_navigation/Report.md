@@ -70,22 +70,21 @@ Learning Rate | 5e-4
 
 
 # Result
-The agent solved the environment in 711 episodes with average score, 15.00. 
+The agent solved the environment in 705 episodes with average score, 15.00. 
 Here is the log of the learning and plot of average scores."
 
 ```angular2html
-Episode 100	Average Score: 0.37
-Episode 200	Average Score: 3.25
-Episode 300	Average Score: 6.83
-Episode 400	Average Score: 9.37
-Episode 500	Average Score: 12.11
-Episode 600	Average Score: 13.66
-Episode 700	Average Score: 14.83
-Episode 800	Average Score: 14.73
-Episode 811	Average Score: 15.00
-Environment solved in 711 episodes!	Average Score: 15.00
+Episode 100	Average Score: 0.96
+Episode 200	Average Score: 4.31
+Episode 300	Average Score: 7.17
+Episode 400	Average Score: 10.08
+Episode 500	Average Score: 12.70
+Episode 600	Average Score: 13.85
+Episode 700	Average Score: 14.87
+Episode 705	Average Score: 15.00
+Environment solved in 705 episodes!	Average Score: 15.00
 ```
-![Averaget scores](learning.png)
+![Average scores](learning.png)
 
 # Ideas for Future Work
 In order to improve the efficiency of the learning, we could apply 
